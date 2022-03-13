@@ -2,7 +2,6 @@
   "compilerOptions": {
     "baseUrl": ".",
     "importHelpers": false,
-    "moduleResolution": "Classic",
     "outDir": "out",
     "typeRoots": [
       "node_modules/@skylib",
