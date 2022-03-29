@@ -1,3 +1,3 @@
 module.exports = {
-  readonlyIgnoreTypes: ["ExtensionContext", "TextDocument", "TextEditor"]
+  consistentImport: [{ sourcePattern: "vscode", type: "wildcard" }]
 };
