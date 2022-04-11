@@ -3,7 +3,7 @@ import * as vscode from "vscode";
 /**
  * Activates plugin.
  *
- * @param context - VSCode context.
+ * @param context - Context.
  */
 export function activate(context: vscode.ExtensionContext): void {
   context.subscriptions.push(
@@ -15,7 +15,7 @@ export function activate(context: vscode.ExtensionContext): void {
 /**
  * Folds comments.
  *
- * @param doc - VSCode document.
+ * @param doc - Document.
  */
 function fold(doc: vscode.TextDocument): void {
   if (doc.uri.path.endsWith(".git")) {
@@ -26,7 +26,7 @@ function fold(doc: vscode.TextDocument): void {
 /**
  * Pastes from clipboard.
  *
- * @param editor - VSCode editor.
+ * @param editor - Editor.
  */
 function paste(editor: vscode.TextEditor): void {
   vscode.commands
