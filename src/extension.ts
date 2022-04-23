@@ -5,6 +5,7 @@ import * as vscode from "vscode";
  *
  * @param context - Context.
  */
+// eslint-disable-next-line @skylib/only-export-name -- Ok
 export function activate(context: vscode.ExtensionContext): void {
   context.subscriptions.push(
     vscode.workspace.onDidOpenTextDocument(fold),
