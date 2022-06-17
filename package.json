@@ -47,7 +47,7 @@
     "*"
   ],
   "devDependencies": {
-    "@skylib/config": "^1.15.0",
+    "@skylib/config": "^1.16.0",
     "@skylib/eslint-plugin": "^0.1.28",
     "@skylib/typescript-types": "^1.0.0",
     "@types/glob": "^7.2.0",
