@@ -68,7 +68,7 @@
     "onStartupFinished"
   ],
   "devDependencies": {
-    "@skylib/config": "^3.12.0",
+    "@skylib/config": "^3.13.1",
     "@skylib/eslint-plugin": "^0.1.32",
     "@skylib/typescript-types": "^1.0.0",
     "@types/glob": "^7.2.0",
