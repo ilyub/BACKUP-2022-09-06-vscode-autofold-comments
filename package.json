@@ -1,7 +1,7 @@
 {
   "name": "autofold-comments",
   "displayName": "Autofold Comments",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "private": false,
   "description": "Autofold Comments plugin for vscode",
   "keywords": [
