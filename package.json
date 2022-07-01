@@ -70,16 +70,16 @@
     "onStartupFinished"
   ],
   "devDependencies": {
-    "@skylib/config": "^3.13.1",
-    "@skylib/eslint-plugin": "^0.1.32",
+    "@skylib/config": "^3.18.0",
+    "@skylib/eslint-plugin": "^0.1.38",
     "@skylib/typescript-types": "^1.0.0",
     "@types/glob": "^7.2.0",
     "@types/mocha": "^9.1.1",
     "@types/vscode": "^1.68.1",
-    "@typescript-eslint/eslint-plugin": "^5.30.0",
-    "@typescript-eslint/parser": "^5.30.0",
+    "@typescript-eslint/eslint-plugin": "^5.30.5",
+    "@typescript-eslint/parser": "^5.30.5",
     "@vscode/test-electron": "^2.1.5",
-    "eslint": "^8.18.0",
+    "eslint": "^8.19.0",
     "glob": "^8.0.3",
     "mocha": "^10.0.0",
     "typescript": "^4.7.4"
